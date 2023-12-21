@@ -17,10 +17,10 @@ Tahap pengerjaannya setelah dataset diperoleh
 - Conclusion
 
 Tampilan streamlit
-![Tampilan prediksi harga rumah dengan ketentuan seperti di gamabr](https://photos.app.goo.gl/YH42rKe6mzt3M3wX9
 )
 https://photos.app.goo.gl/9BQjLgk845Ly79jSA
 ![Tampilan prediksi harga rumah dengan ketentuan seperti di gamabr](https://photos.app.goo.gl/VVvyZtyjKx7SCLceA
 )
+![Tampilan prediksi harga rumah dengan ketentuan seperti di gamabr](https://github.com/sains-data/Team-2-RA-House-Pricing-BRNN/blob/main/Screenshot%20(218).png)
 
 Tim 2 Deep Learning - RA-Sains Data -T.A 2022/2023.
