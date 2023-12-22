@@ -13,10 +13,11 @@ def fetch_data():
 loaded_model = joblib.load('model_final_project')
 
 # Insert a picture using st.image()
-st.image("mo-house-minimalist-tiny-house-by-dform-01-1.jpg", use_column_width=True)
+st.image("rumah.jpg", use_column_width=True)
 
-st.title("Aplikasi Prediksi Harga Rumah")
-st.write("ISI DATA INFORMASI RUMAH NASABAH :")
+st.title("House Pricing Prediction")
+st.write("Team 2 RA-Deep Learning Sains Data :")
+st.write("Input Information From Customer :")
 
 #define df
 df = fetch_data()
