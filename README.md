@@ -16,6 +16,9 @@ Tahap pengerjaannya setelah dataset diperoleh
 - Evaluated models
 - Conclusion
 
+
+# Link Streamlit https://house-pricing-prediction-brnn.streamlit.app
+
 ## Procedure to Run the Model using Streamlit
 
 1. Clone the repository: 
